@@ -1,0 +1,4 @@
+Total average : 13.99207650273224
+ Over 5mm : 57
+ Rainfall : 1780.8
+ 
